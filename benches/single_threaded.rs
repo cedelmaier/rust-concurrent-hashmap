@@ -1,5 +1,6 @@
 #![feature(test)]
 #![feature(std_misc)]
+#![feature(hashmap_hasher)]
 
 extern crate rand;
 extern crate test;
